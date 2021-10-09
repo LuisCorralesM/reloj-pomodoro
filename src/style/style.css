@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(4, 63, 63);
+    color: #fff;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.contenedor-reloj {
+    margin: 10vh 20vw;
+    padding: 5vh 10vw;
+}
+
+.enunciado-reloj {
+    text-align: center;
+    font-size: 30px;
+}
+
+.contenedor-config-reloj{
+    display: flex;
+}
+
+.config1,
+.config2{
+    text-align: center;
+    padding: 20px 50px;
+}
+
+.contenedor-config-footer{
+    text-align: center;
+}
